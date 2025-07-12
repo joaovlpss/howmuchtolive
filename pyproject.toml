@@ -1,0 +1,10 @@
+[project]
+name = "howmuchtolive"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "botasaurus>=4.0.88",
+    "nest-asyncio>=1.6.0",
+]
